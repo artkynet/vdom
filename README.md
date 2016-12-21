@@ -3,5 +3,4 @@
 A virtual DOM library.
 
 ##Example
-
-todo
+	code
